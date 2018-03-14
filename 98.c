@@ -3,7 +3,7 @@
 int main()
 {
 float width, length, height;
-   float surfacearea, volume, space_diagonal;
+float surfacearea, volume, space_diagonal;
 printf("Enter value of width, length & height of the cuboids:\n");
 scanf("%f%f%f", &width, &length, &height);
 surfacearea = 2 *(width * length + length * height +
